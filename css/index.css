@@ -87,3 +87,85 @@ button{
     
 }
 
+.main{
+    background-image: url(../assets/images/image\ 2.png),url(../assets/images/image\ 1.png);
+    background-position: 70% 15%,center bottom;
+   background-repeat: no-repeat,no-repeat;
+   background-size: 50% 50%,100% 95%;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    
+}
+.maintext{
+    text-align:right;
+    position: absolute;
+    top:40%;
+    right: 10%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color:#000000;
+}
+.maintext h2{
+    font-size: 3rem;
+    margin: 0;
+    font-weight: bold;
+    white-space: no-wrap;
+}
+.maintext p{
+    font-size:1.5rem ;
+    margin: 0;
+    
+}
+.card {
+    background: white;
+    padding: 80px 40px;
+    margin: 0 30px;
+    font-family: sans-serif;
+    color: rgba(0,0,0,0.2);
+    font-size: 24px;
+    position: relative;
+    width: 300px;
+    box-shadow: -30px 30px 30px rgba(0, 0, 0, 0.3);
+}
+.hero{
+    display: flex;
+    flex-direction: row;
+    height: 50vh;
+    width: 100%;
+    text-decoration: none;
+    padding-top: 5rem;
+    margin-left: 20px;
+    
+}
+.left{
+    flex: 5;
+}
+.right{
+    flex: 8;
+}
+img{
+    height: 100%;
+    weiight:100%;
+}
+.heading{
+    font-family: ;
+    display: inline;
+    text-decoration: underline;
+    text-decoration-color: #ED661F;
+   
+    font-weight: bold;
+    font-size: 2rem;
+    text-decoration-style:solid ;
+    -moz-text-decoration-style: solid;
+    width: 20px;
+    
+}
+.hero p{
+
+
+font-style: normal;
+    font-weight: 400;
+    font-size: 1.2rem;
+    line-height: 29px;
+}
