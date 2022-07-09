@@ -191,3 +191,20 @@ font-style: normal;
   text-align: center;
   color:black;
 }
+.container{
+    display: flex;
+    flex-direction: row;
+   justify-content: space-evenly;
+   height: 400px;
+   width: 100%;
+  
+
+}
+.card1{
+    font-family: "Space Grotesk", sans-serif;
+    align-items: flex-start;
+    padding: 7px 15px 14px 38px;
+    width: 20rem;
+    height: 16rem;
+    border-radius: 0px 39.7214px;
+  }
