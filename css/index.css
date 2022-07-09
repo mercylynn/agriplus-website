@@ -153,6 +153,8 @@ img{
     display: inline;
     text-decoration: underline;
     text-decoration-color: #ED661F;
+    text-decoration-thickness: 3px;
+    text-decoration-thickness: ;
    
     font-weight: bold;
     font-size: 2rem;
@@ -168,4 +170,24 @@ font-style: normal;
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 29px;
+}
+.categories h1{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 30px;
+    text-align: center;
+    color:black;
+   
+    text-decoration: underline;
+    text-decoration-color: #ED661F;
+
+}
+.categories p{
+font-style: normal;
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 30px;
+  text-align: center;
+  color:black;
 }
