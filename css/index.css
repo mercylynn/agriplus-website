@@ -208,3 +208,6 @@ font-style: normal;
     height: 16rem;
     border-radius: 0px 39.7214px;
   }
+  .checked {
+    color: orange;
+  }
