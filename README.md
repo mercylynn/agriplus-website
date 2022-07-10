@@ -1,4 +1,4 @@
-- [Agriplus Wedsite](#agriplus-wedsite)
+- [Agriplus Website](#agriplus-website)
 - [Author](#author)
 - [Description](#description)
 - [Setup Requirements](#setup-requirements)
@@ -6,7 +6,7 @@
 - [Technologies Used](#technologies-used)
 - [Setup/Installation Requirements](#setupinstallation-requirements)
 - [License](#license)
-# Agriplus Wedsite
+# Agriplus Website
 This an ecommerce website designed to market farmers agriculural products where clients can order directlty from the farmers. 
 # Author
  created By Mercy Kamene on 10-07-2022

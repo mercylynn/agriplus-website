@@ -453,6 +453,10 @@ img {
 
   color: #000;
 }
+.arrow{
+  font-size: 48px;
+  color: #ED661F;
+}
 
 .subscribe {
   background: #000000;
