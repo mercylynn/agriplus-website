@@ -211,3 +211,97 @@ font-style: normal;
   .checked {
     color: orange;
   }
+  .avatar{
+    border-radius: 50%;
+    width:100px;
+    height: 120px;
+  border: 5px solid white;
+  
+
+  }
+  .testimonial-card{
+    
+    height: 18rem;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 8px 30px rgba(0,0,0,.3);
+    padding: 80px 40px;
+    margin: 0 30px;
+    font-family:;
+    color: rgba(0,0,0,0.2);
+    font-size: 24px;
+    position: relative;
+    width: 300px;
+  }
+
+    .testimonial{
+        background: rgb(237, 239, 240);
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content:space-evenly;}
+        .text{
+            padding: 2.2em;
+            line-height: 1.7em;
+            position: relative;
+            font-size: 18px;}
+            .person{
+                display: flex;
+                flex-flow: row;
+                justify-content: space-between;
+                color:white;
+              
+               
+                font-size:1.5rem;
+                font-weight: 600;
+              }
+              .subscribe {
+                background: #000000;
+              }
+              
+              .page h1 {
+                font-weight: normal;
+                font-family: 'Crete Round', georgia, serif;
+                color: #524d4d;
+                text-shadow: 0 2px 2px #111;
+                margin-bottom: 40px;
+                text-transform: capitalize;
+              }
+              
+              input {
+                font: 19px "Open Sans", Helvetica, Arial, Sans-serif;
+                border-radius: 3px;
+                box-shadow: 0 2px 2px #000;
+              }
+              
+              .page {
+                width: 500px;
+                height: 250px;
+                margin: 50px auto 0;
+              }
+              
+              form input,
+              form input:focus {
+                padding: 10px 13px;
+                border: 0;
+                outline: 0;
+              }
+              
+              form input[type="email"] {
+                margin-right: 15px;
+                width: 300px;
+                color: #a09f9f;
+              }
+              
+              form input[type="submit"] {
+                padding: 10px 15px;
+                color: #c0d6db;
+                background:#ED661F;
+                text-shadow: 0 2px 2px #333;
+                box-shadow: inset 0 0 0 transparent;
+                background: #508f9f;
+                background: linear-gradient(to bottom, #ED661F 0%,#ED661F 100%);
+                transition: all .3s ease-in-out;
+              }
+              
+              
